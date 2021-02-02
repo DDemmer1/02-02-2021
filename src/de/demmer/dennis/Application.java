@@ -10,8 +10,8 @@ public class Application {
 		
 		
 		Renderer renderer = new Renderer();
+		renderer.render(glumanda);
 		
-//		renderer.render(glumanda);
 		
 		
 		

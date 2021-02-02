@@ -9,5 +9,7 @@ public abstract class Pokemon {
 	//Gibt den laut eines Pokemons wieder
 	public abstract void scream();
 	
+	
+	
 
 }
