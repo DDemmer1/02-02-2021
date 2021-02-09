@@ -20,6 +20,6 @@
 ### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
-- [📃 gitHub - Java Wegweiser](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Arrays.md)
-- [📃 Java Vererbung](https://github.com/DH-Cologne/java-wegweiser/blob/master/articles/Vererbung-I-Grundlagen.md)
+- [📃 Java BufferedReader](https://www.guru99.com/buffered-reader-in-java.html)
+- [📃 Java File](https://java-tutorial.org/file.html)
 
